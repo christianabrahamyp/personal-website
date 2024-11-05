@@ -28,6 +28,10 @@ body {
     font-size: 14px;
 }
 
+.navbar-box a:hover {
+    opacity: 0.8;
+}
+
 /* Hero Section */
 .hero-section {
     display: flex;
@@ -66,6 +70,10 @@ body {
     font-size: 12px;
     background-color: #191919;    ;
     border-radius: 20px;
+}
+
+.contact-section a:hover {
+    opacity: 0.8;
 }
 
 /* Hero Section - Project Showcase */
