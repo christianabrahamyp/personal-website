@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: "Work Sans", sans-serif;
+    background-color: black;
+}
+
+.container {
+    display: flexbox;
+    flex-direction: column;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1500px;
+  }
+
+/* NavBar */
+.navbar {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.navbar-box a {
+    margin: 0 50px;
+    color: white;
+    font-size: 14px;
+}
+
+/* Hero Section */
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    width: 950px;
+    padding: 20px;
+    margin-top: 50px;
+}
+/* Hero Section - Main Intro */
+.main-intro {
+    margin-top: 20px;
+    flex: 350px;
+}
+
+.title-intro {
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+.detail-intro {
+    font-size: 15px;
+    width: 480px;
+    color: rgba(255, 255, 255, 0.600);
+}
+
+/* Main Intro - Contact */
+.contact-section {
+    margin-top: 50px;
+}
+
+.contact-section a {
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+    background-color: #191919;    ;
+    border-radius: 20px;
+}
+
+/* Hero Section - Project Showcase */
+.main-project-showcase {
+    flex: 250px;
+}
+
+.project-showcase-intro {
+    color: white;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.project-preview {
+    display: flex;
+    margin-top: 10px;
+}
+
+.project-explanation {
+    margin-left: 10px;
+}
+
+.project-title,
+.project-detail {
+    width: 450px;
+}
+
+.project-title {
+    color: white;
+}
+
+.project-detail {
+    margin-top: 8px;
+    color: rgba(255, 255, 255, 0.600);
+    font-size: 15px;
+}
