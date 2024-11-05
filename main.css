@@ -6,12 +6,11 @@ body {
 }
 
 .container {
-    display: flexbox;
+    display: flex;
     flex-direction: column;
-    max-width: fit-content;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    width: 1500px;
   }
 
 /* NavBar */
@@ -68,7 +67,7 @@ body {
     color: white;
     padding: 10px;
     font-size: 12px;
-    background-color: #191919;    ;
+    background-color: #191919;
     border-radius: 20px;
 }
 
@@ -103,10 +102,11 @@ body {
 
 .project-title {
     color: white;
+    font-size: 14px;
 }
 
 .project-detail {
     margin-top: 8px;
     color: rgba(255, 255, 255, 0.600);
-    font-size: 15px;
+    font-size: 13px;
 }
