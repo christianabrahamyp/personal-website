@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 body {
-    font-family: "Work Sans", sans-serif;
     background-color: black;
 }
 
@@ -23,6 +22,16 @@ body {
 
 .logo-image {
     width: 160px;
+}
+
+.toggle-button {
+    font-family: "Work Sans", sans-serif;
+    background-color: white;
+    padding: 10px;
+    border: none;
+    font-weight: 500;
+    border-radius: 20px;
+    cursor: pointer;
 }
 
 .navbar-box a {
@@ -66,7 +75,7 @@ body {
 
 /* Main Intro - Contact */
 .contact-section {
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .contact-section a {
