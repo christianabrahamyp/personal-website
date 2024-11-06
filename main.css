@@ -17,11 +17,16 @@ body {
 .navbar {
     padding: 20px;
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-image {
+    width: 160px;
 }
 
 .navbar-box a {
-    margin: 0 50px;
+    margin: 0 10px;
     color: white;
     font-size: 14px;
     transition: opacity 0.15s
