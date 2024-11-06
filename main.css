@@ -8,7 +8,7 @@ body {
 .container {
     display: flex;
     flex-direction: column;
-    max-width: 1000px;
+    max-width: 650px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -106,7 +106,7 @@ body {
 
 .project-title,
 .project-detail {
-    width: 450px;
+    width: 340px;
 }
 
 .project-title {
