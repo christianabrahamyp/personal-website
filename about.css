@@ -9,12 +9,12 @@
 .about-title {
     font-size: 25px;
     font-weight: 600;
-    color: white;
+    color: #a6bff6;
 }
 
 .about-desc {
     font-size: 15px;
-    color: rgba(255, 255, 255, 0.600);
+    color: #f8f8ffb4;
 }
 
 .about-main {
@@ -29,11 +29,11 @@
 }
 
 .section-title{
-    color: #a6bff6;
+    color: #f8f8ffb4;
 }
 
 .section-description{
-    color: rgba(255, 255, 255, 0.863);
+    color: #F8F8FF;
     width: 600px;
     line-height: 1.35;
     padding: 0 50px;
