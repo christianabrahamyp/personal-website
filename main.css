@@ -4,25 +4,24 @@
     flex-direction: column;
     width: 100%;
     padding: 20px;
-    margin-top: 40px;
+    margin-top: 45px;
 }
 /* Hero Section - Main Intro */
 .main-intro {
-    margin-top: 15px;
     flex: 280px;
 }
 
 .title-intro {
     margin-bottom: 10px;
-    font-size: 19px;
+    font-size: 18px;
     font-weight: 600;
-    color: #a6bff6;
+    color: #F8F8FF;
 }
 
 .detail-intro {
     font-size: 16px;
-    width: 480px;
-    color: #f8f8ffb4;
+    width: 430px;
+    color: #f8f8ffbb;
     line-height: 1.40;
 }
 
@@ -68,15 +67,15 @@
 
 .project-title {
     color: #F8F8FF;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .project-detail {
     margin-top: 8px;
-    color: #f8f8ffb4;
+    color: #f8f8ffbb;
     font-size: 14px;
 }
 
 .placeholder-image {
-    width: 250px;
+    width: 300px;
 }

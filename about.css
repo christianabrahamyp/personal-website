@@ -7,14 +7,14 @@
 }
 
 .about-title {
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 600;
-    color: #a6bff6;
+    color: #F8F8FF;
 }
 
 .about-desc {
-    font-size: 15px;
-    color: #f8f8ffb4;
+    font-size: 14px;
+    color: #f8f8ffbb;
 }
 
 .about-main {
@@ -29,11 +29,12 @@
 }
 
 .section-title{
+    font-size: 16px;
     color: #F8F8FF;
 }
 
 .section-description{
-    color: #f8f8ffb4;
+    color: #f8f8ffbb;
     width: 600px;
     line-height: 1.35;
     padding: 0 50px;
